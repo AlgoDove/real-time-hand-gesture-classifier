@@ -21,7 +21,7 @@ Google Colab
 
 Model Details
 
-Three gesture classes: god, love, you
+Three gesture classes: God, loves, you
 Image size: 64x64 pixels
 Two convolution layers with ReLU and MaxPooling
 Dense layer followed by softmax output
